@@ -1,1 +1,2 @@
-#  Implementation of a Python-based asyncio application server herd prototype for a news service, exploring the potential of asyncio as a replacement for the Wikipedia platform. Includes creating servers that communicate bidirectionally, handle client commands like IAMAT and WHATSAT, and interact with Google Places API asynchronously.
+#  Prototype for Wikipedia-style news service, using Python’s asyncio library to facilitate asynchronous networking and rapid data updates across multiple servers via TCP connections. Integrates Google Places API using aiohttp for location-based queries and implements logging mechanism for server monitoring.
+
